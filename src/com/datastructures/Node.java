@@ -1,7 +1,5 @@
 package src.com.datastructures;
 
-import javax.lang.model.type.NullType;
-
 public class Node <T>{
     T data;
     Node<T> next;
